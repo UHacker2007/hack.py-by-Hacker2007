@@ -1,4 +1,4 @@
-# my-first-python3-
+# my-first-python3
 A simple python3 script 
 # install
 ______
