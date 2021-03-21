@@ -1,6 +1,6 @@
 # About 
 A simple python3 script 
-# install
+# installation 
 ______
 $ pip3 install playsound <br>
 $ pip3 install pyfiglet <br>
