@@ -1,4 +1,3 @@
-
 # About 
 A simple python3 script 
 # installation 
