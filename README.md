@@ -9,7 +9,7 @@ this commands
 ____
 $ python3 hack.py 
 ____
-And you can install (coding by Hacker2007.zip).I prefer to use (coding by Hacker2007.zip)
+And you can install coding by Hacker2007.zip.I prefer to use (coding by Hacker2007.zip)
 in computer and laptop first unzip the file then install 
 it by entering this commands 
 ______
