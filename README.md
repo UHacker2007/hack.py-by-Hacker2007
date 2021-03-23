@@ -1,5 +1,8 @@
 # About 
 A simple python3 script 
+# Instruction
+The zip file  is for computer only and hack.py is for computer and 
+phone.
 # How to use 
 You can use *hack.py* on any device it has a simple installation you can install it by entering 
 this commands
@@ -14,6 +17,3 @@ $ pip3 install playsound <br>
 $ pip3 install pyfiglet <br>
 $ python3 hack.py
 ______
-# Instruction
-The zip file  is for computer only and hack.py is for computer and 
-phone.
