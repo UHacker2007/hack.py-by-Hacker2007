@@ -18,6 +18,7 @@ print ( n,"that's ok...\n")
 
 print ("This is just for fun =>\n")
 
+# Addition of two numbers
 print("Addition of two numbers.")
 a = input("Enter a  number: ")
 b = input("Again enter a number: ")
@@ -27,7 +28,7 @@ avg = (a + b)+106
 print ("Ths sum of this two numbers is",a+b)
 print ("if we add 106 to the answer ths answer is",avg)
 print("\n")
-
+# Subtraction of two numbers
 print ("Subtraction of two numbers.")
 a = input("Enter a number: ")
 b = input("Again enter a number: ")
@@ -38,6 +39,7 @@ print ("Ths subtraction of this two numbers is",a-b)
 print ("if we subtract 107 to the answer ths answer is",avg)
 print("\n")
 
+# Division of two numbers
 print ("Division of two numbers.")
 a = input("Enter a  number: ")
 b = input("Again enter a number: ")
@@ -48,6 +50,7 @@ print ("Ths division of this two numbers is",a+b)
 print ("if we divide 108 the answer ths answer is",avg)
 print("\n")
 
+# Multiplication of two numbers
 print ("Multiplication of two numbers.")
 a = input("Enter a  number: ")
 b = input("Again enter a number: ")
@@ -58,6 +61,7 @@ print ("Ths multiplication of this two numbers is",a*b)
 print ("if we Multiply 109 to the answer ths answer is",avg)
 print("\n")
 
+# Listing of fruits
 print ("Enter your 6 fruits name.")
 f1 = input("Enter fruit number 1: ")
 f2 = input("Enter fruit number 2: ")
