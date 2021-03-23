@@ -6,7 +6,9 @@ this commands
 ____
 $ python3 hack.py 
 ____
-I prefer to use (coding by Hacker2007.zip) in computer and laptop first unzip the file then install it by entering this commands 
+And you can install (coding by Hacker2007.zip).I prefer to use (coding by Hacker2007.zip)
+in computer and laptop first unzip the file then install 
+it by entering this commands 
 ______
 $ pip3 install playsound <br>
 $ pip3 install pyfiglet <br>
