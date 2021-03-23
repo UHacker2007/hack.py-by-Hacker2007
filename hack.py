@@ -28,6 +28,7 @@ avg = (a + b)+106
 print ("Ths sum of this two numbers is",a+b)
 print ("if we add 106 to the answer ths answer is",avg)
 print("\n")
+
 # Subtraction of two numbers
 print ("Subtraction of two numbers.")
 a = input("Enter a number: ")
