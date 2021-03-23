@@ -1,7 +1,7 @@
 # About 
 A simple python3 script 
 # How to use 
-You can use *hack.py* any device ti has a simple installation you can install it by entering 
+You can use *hack.py* on any device it has a simple installation you can install it by entering 
 this commands
 ____
 $ python3 hack.py 
